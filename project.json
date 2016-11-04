@@ -1,0 +1,17 @@
+{
+    "title":"prog3_companion",
+    "description":"",
+    "id":"prog3companion.project.kinoma.marvell.com",
+    "tags":[
+        "emptySample"
+    ],
+    "Create":{
+        "main":"main"
+    },
+    "Element":{
+        "main":"main"
+    },
+    "iap140":{
+    	"main":"main"
+    }
+}
