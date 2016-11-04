@@ -1,0 +1,14 @@
+{
+    "title":"prog3_device",
+    "description":"",
+    "id":"prog3device.project.kinoma.marvell.com",
+    "tags":[
+        "emptySample"
+    ],
+    "Create":{
+        "main":"main"
+    },
+    "Element":{
+        "main":"main"
+    }
+}
